@@ -12,15 +12,18 @@ A basic contract to test our [Teleporter](https://github.com/jvaleskadevs/superc
 - Ethereum Goerli (deployed with Remix) [0xa2f729AAEA2434E4E1bb3455fe1D2eB172058D8a](https://goerli.etherscan.io/address/0xa2f729AAEA2434E4E1bb3455fe1D2eB172058D8a#code)
 - Base Goerli (teleported) [0xBb7ca7a34cE4D4808385c117101657026d861292](https://goerli.basescan.org/address/0xbb7ca7a34ce4d4808385c117101657026d861292#code)
 - Optimism Goerli (teleported) [0x5B95D080F83c4a69E3C5462f90AD569DCC31794e](https://goerli-optimism.etherscan.io/address/0x5B95D080F83c4a69E3C5462f90AD569DCC31794e#code)
+- Mode tesnet (teleported) [0x569c819dF088b7947f9dB31F3271FE7cb92Bca11](https://sepolia.explorer.mode.network/address/0x569c819dF088b7947f9dB31F3271FE7cb92Bca11?tab=contract)
 # SupercontractWithArgs
 A basic contract with args to test our [Teleporter](https://github.com/jvaleskadevs/superchain-teleporter-station).
 - Ethereum Goerli (deployed with Remix) [0xFee1360fe085557D16c47124e1324517cF43B7B9](https://goerli.etherscan.io/address/0xFee1360fe085557D16c47124e1324517cF43B7B9#code)
 - Base Goerli (teleported) [0x8a3f0a10f4f168fb817bfa9a0f8cff8db2d133cf](https://goerli.basescan.org/address/0x8a3f0a10f4f168fb817bfa9a0f8cff8db2d133cf#code)
 - Optimism Goerli (teleported) [0x9bcc6bd2a72af329e28fe3df632b4db89a4ee9a7](https://goerli-optimism.etherscan.io/address/0x9bcc6bd2a72af329e28fe3df632b4db89a4ee9a7#code)
+- Mode testnet (teleported) [0xBb7ca7a34cE4D4808385c117101657026d861292](https://sepolia.explorer.mode.network/address/0xBb7ca7a34cE4D4808385c117101657026d861292?tab=contract)
 # SupercontractWithArgsAndImports
 A basic contract with args and imports to test our [Teleporter](https://github.com/jvaleskadevs/superchain-teleporter-station).
 - Ethereum Sepolia (deployed with Remix) [0x97aBfD858Cdac2d099116309B178452bA4025112](https://goerli-optimism.etherscan.io/address/0x9bcc6bd2a72af329e28fe3df632b4db89a4ee9a7#code)
 - Optimism Goerli (teleported) [0x42c500eFe11424f479dE18C4095537478511BeB3](https://goerli-optimism.etherscan.io/address/0x42c500efe11424f479de18c4095537478511beb3#code)
 - Optimism Goerli (teleported) [0xE89F808103aAc03663E080E7ff1B5ef6d9da562D](https://goerli-optimism.etherscan.io/address/0xe89f808103aac03663e080e7ff1b5ef6d9da562d#code)
+- Base Goerli (teleported) [0x83bf9f56e703a87fc05eabb6933e1a8d5cec87f3](https://goerli.basescan.org/address/0x83bf9f56e703a87fc05eabb6933e1a8d5cec87f3#code)
 - Zora Goerli (teleported) [0x569c819df088b7947f9db31f3271fe7cb92bca11](https://testnet.explorer.zora.energy/address/0x569c819dF088b7947f9dB31F3271FE7cb92Bca11?tab=contract)
 - Mode tesnet (teleported) [0x8A3F0A10F4f168FB817BFa9A0F8cFF8dB2d133cf](https://sepolia.explorer.mode.network/address/0x8A3F0A10F4f168FB817BFa9A0F8cFF8dB2d133cf?tab=contract)
